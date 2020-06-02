@@ -1,9 +1,9 @@
 # Lattice
 Lattice-based cryptography using LWE and LWR scheme 
 
-![size](https://img.shields.io/github/repo-size/sweatpotato13/Unity-Project)
-![contributors](https://img.shields.io/github/contributors/sweatpotato13/Unity-Project)
-![stars](https://img.shields.io/github/stars/sweatpotato13/Unity-Project?style=plastic)
+![size](https://img.shields.io/github/repo-size/sweatpotato13/Lattice)
+![contributors](https://img.shields.io/github/contributors/sweatpotato13/Lattice)
+![stars](https://img.shields.io/github/stars/sweatpotato13/Lattice?style=plastic)
 
 
 ## About this repo
